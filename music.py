@@ -87,6 +87,7 @@ APPLE MUSIC
 
 play <songname> = Play a song from the Apple Music Library
 search <query> = Search for a song in your library
+pause = Pause a song that is currently playing
 exit = exit
 
 '''
